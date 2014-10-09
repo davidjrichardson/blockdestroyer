@@ -1,5 +1,4 @@
-# WarwickMaze "Grand Finale" Game
-## About
+# WarwickMaze "Block Destroyer" Game
 
 A game built around the University of Warwick "WarwickMaze" java courseware applet. This software constructs a game around the applet using the coursework resources and the native Java UI framework. A screenshot of the game is:
 
